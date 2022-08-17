@@ -1,0 +1,25 @@
+structure of srs
+1 introduction
+Hospital management
+  1.1 purpose
+    solving the problem in given area
+  1.2 scope
+    provididng the required products
+   1.3 overview
+    the main features of the requriments
+2 general description
+  2.1 user manul
+  2.2 function requriments
+3 description
+  3.1 tecnical issusu
+4 interfaces requirments
+  4.1 hardware requirments
+  4.2 software requirments
+  4.3 gui
+5.performance requirments
+6 design
+7 other non funtional attributes
+8 security
+9 realibility
+  9.1 avaiolability
+  
